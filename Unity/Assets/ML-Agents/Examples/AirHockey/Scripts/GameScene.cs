@@ -55,9 +55,9 @@ public class GameScene : MonoBehaviour
     public void GoalEvent(Puck.Direction Who)
     {
         if (Who == Puck.Direction.PLAYER)
-            agent.SetReward(10f);
+            agent.SetReward(50f);
         else
-            agent.SetReward(-10f);
+            agent.SetReward(-50f);
 
         agent.Done();
 

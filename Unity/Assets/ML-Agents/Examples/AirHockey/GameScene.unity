@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 40783727}
   - component: {fileID: 40783729}
   - component: {fileID: 40783728}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Puck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -244,7 +244,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 42413498}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: StartPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -275,7 +275,7 @@ GameObject:
   m_Component:
   - component: {fileID: 186320882}
   - component: {fileID: 186320883}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Com
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -329,13 +329,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 0.06666664, g: 0.8392157, b: 0.33527595, a: 1}
   mPivot: 4
-  mWidth: 272
+  mWidth: 278
   mHeight: 180
   mDepth: 10
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.5111111
+  aspectRatio: 1.5444444
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
@@ -373,7 +373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 223636763}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: TopPos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -388,7 +388,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 223636762}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -229, z: 0}
+  m_LocalPosition: {x: 0, y: -125, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 797841114}
@@ -403,7 +403,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 278696314}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -433,7 +433,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 311942138}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Goal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 333529004}
   - component: {fileID: 333529003}
   - component: {fileID: 333529005}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: UI Root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -485,7 +485,7 @@ Transform:
   m_GameObject: {fileID: 333529000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.0015625, y: 0.0015625, z: 0.0015625}
+  m_LocalScale: {x: 0.0020833334, y: 0.0020833334, z: 0.0020833334}
   m_Children:
   - {fileID: 1923018737}
   - {fileID: 1528377886}
@@ -504,9 +504,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scalingStyle: 2
-  manualWidth: 720
-  manualHeight: 1280
+  scalingStyle: 1
+  manualWidth: 540
+  manualHeight: 960
   minimumHeight: 320
   maximumHeight: 1536
   fitWidth: 0
@@ -596,7 +596,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 530662438}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Center
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -626,7 +626,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 764415276}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Bottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -656,7 +656,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 797841114}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Agent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -688,7 +688,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 816303477}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -718,7 +718,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 823896118}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -750,7 +750,7 @@ GameObject:
   - component: {fileID: 989254428}
   - component: {fileID: 989254430}
   - component: {fileID: 989254429}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Mallet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -861,7 +861,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1220689041}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -891,7 +891,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1348224096}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -925,7 +925,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1377514265}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -955,7 +955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1412076275}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: PositionInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -988,7 +988,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1485196536}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1018,7 +1018,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1488564449}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1049,7 +1049,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1528377886}
   - component: {fileID: 1528377887}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Court
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1065,7 +1065,7 @@ Transform:
   m_GameObject: {fileID: 1528377885}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children:
   - {fileID: 1412076275}
   - {fileID: 40783727}
@@ -1144,7 +1144,7 @@ GameObject:
   - component: {fileID: 1580788906}
   - component: {fileID: 1580788908}
   - component: {fileID: 1580788907}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Mallet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1239,6 +1239,7 @@ MonoBehaviour:
   brain: {fileID: 11400000, guid: 477e71d8ccec1104084e0f263c829880, type: 2}
   agentParameters:
     agentCameras: []
+    agentRenderTextures: []
     maxStep: 0
     resetOnDone: 1
     onDemandDecision: 0
@@ -1262,7 +1263,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1621487274}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Com
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1317,23 +1318,22 @@ MonoBehaviour:
   broadcastHub:
     broadcastingBrains:
     - {fileID: 11400000, guid: 477e71d8ccec1104084e0f263c829880, type: 2}
-    _brainsToControl:
+    m_BrainsToControl:
     - {fileID: 11400000, guid: 477e71d8ccec1104084e0f263c829880, type: 2}
-  maxSteps: 0
-  trainingConfiguration:
-    width: 720
-    height: 1280
+  m_TrainingConfiguration:
+    width: 540
+    height: 960
     qualityLevel: 1
-    timeScale: 100
+    timeScale: 3
     targetFrameRate: -1
-  inferenceConfiguration:
-    width: 900
-    height: 1280
+  m_InferenceConfiguration:
+    width: 540
+    height: 960
     qualityLevel: 3
     timeScale: 1
     targetFrameRate: 60
   resetParameters:
-    resetParameters: []
+    m_ResetParameters: []
 --- !u!4 &1686661506
 Transform:
   m_ObjectHideFlags: 0
@@ -1358,7 +1358,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1777123903}
   - component: {fileID: 1777123904}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: User
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1412,13 +1412,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 0.06666664, g: 0.8392157, b: 0.33527595, a: 1}
   mPivot: 4
-  mWidth: 272
+  mWidth: 278
   mHeight: 180
   mDepth: 10
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.5111111
+  aspectRatio: 1.5444444
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
@@ -1504,7 +1504,7 @@ GameObject:
   - component: {fileID: 1923018737}
   - component: {fileID: 1923018738}
   - component: {fileID: 1923018739}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1637,7 +1637,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1937226038}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1669,12 +1669,12 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
-  orthographic size: 100
+  orthographic: 1
+  orthographic size: 0.67
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967039
+    m_Bits: 32
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
