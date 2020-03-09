@@ -33,7 +33,7 @@
       <recent name="C:\Users\JGY\PycharmProjects\Testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DDPG">
+  <component name="RunManager" selected="Python.main">
     <configuration name="AirCombat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,9 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.DDPG" />
         <item itemvalue="Python.AirCombat" />
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.TRPO" />
         <item itemvalue="Python.CartPole (1)" />
       </list>
@@ -203,25 +203,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567588550" />
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1583715323141">
+    <state width="1899" height="246" key="GridCell.Tab.0.bottom" timestamp="1583742514009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583742514009" />
     <state width="1899" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
-    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1583715323141">
+    <state width="1899" height="246" key="GridCell.Tab.0.center" timestamp="1583742514008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583742514008" />
     <state width="1899" height="246" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
-    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1583715323141">
+    <state width="1899" height="246" key="GridCell.Tab.0.left" timestamp="1583742514008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583742514008" />
     <state width="1899" height="246" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
-    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1583715323141">
+    <state width="1899" height="246" key="GridCell.Tab.0.right" timestamp="1583742514009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583742514009" />
     <state width="1899" height="246" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
     <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.bottom" timestamp="1581567568516">
       <screen x="0" y="0" width="1920" height="1040" />

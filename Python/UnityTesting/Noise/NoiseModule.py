@@ -1,8 +1,8 @@
 import numpy as np
 
-mu = 0.6
-theta = 1e-5
-sigma = 1e-2
+mu = 0.5
+theta = 1e-2
+sigma = 1e-0
 
 class OU_noise:
     def __init__(self, action_size, ):

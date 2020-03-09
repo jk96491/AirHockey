@@ -3,14 +3,14 @@ from collections import deque
 from mlagents.envs.environment import UnityEnvironment
 from UnityTesting.Agent.DDPG import DDPGAgent
 
-state_size = 8
-action_size = 3
+state_size = 12
+action_size = 2
 
-start_train_episode = 10
+start_train_episode = 1000
 run_episode = 500000
 test_episode = 100000
 
-print_interval = 5
+print_interval = 50
 save_interval = 100
 
 
