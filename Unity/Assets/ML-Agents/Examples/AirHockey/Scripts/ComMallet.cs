@@ -40,7 +40,7 @@ public class ComMallet : MonoBehaviour
     private int radius = 0;
     public int Radius { get { return radius; } }
 
-    private float malletSpeed = 1150f;
+    private float malletSpeed = 1150f / 2;
 
     [SerializeField]
     private ActionState curState = ActionState.NONE;

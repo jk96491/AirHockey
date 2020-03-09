@@ -49,7 +49,7 @@ public class Puck : MonoBehaviour
     [SerializeField]
     private Transform center = null;
 
-    float puckSpeed = 1300;
+    float puckSpeed = 650;
 
     Vector3 startPos = Vector3.zero;
 

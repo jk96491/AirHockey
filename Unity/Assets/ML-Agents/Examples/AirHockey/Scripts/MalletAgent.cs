@@ -35,6 +35,8 @@ public class MalletAgent : Agent {
 
     float ElapesdTime = 0f;
 
+    float puckSpeed = 500f;
+
     public void Init()
     {
         if (null != texture)
@@ -58,7 +60,7 @@ public class MalletAgent : Agent {
         float y = vectorAction[1];
 
         if (null != trans)
-            trans.localPosition += new Vector3(x, y, 0) * 1000 * ElapesdTime;
+            trans.localPosition += new Vector3(x, y, 0) * puckSpeed * ElapesdTime;
     }
 
     public override void AgentReset()
