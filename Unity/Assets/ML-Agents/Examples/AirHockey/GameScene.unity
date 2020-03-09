@@ -329,13 +329,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 0.06666664, g: 0.8392157, b: 0.33527595, a: 1}
   mPivot: 4
-  mWidth: 276
+  mWidth: 272
   mHeight: 180
   mDepth: 10
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.5333333
+  aspectRatio: 1.5111111
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
@@ -1412,13 +1412,13 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 0.06666664, g: 0.8392157, b: 0.33527595, a: 1}
   mPivot: 4
-  mWidth: 276
+  mWidth: 272
   mHeight: 180
   mDepth: 10
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 1.5333333
+  aspectRatio: 1.5111111
   keepCrispWhenShrunk: 1
   mTrueTypeFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   mFont: {fileID: 0}
