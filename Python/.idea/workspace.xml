@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97843bd4-3f0a-4ac4-a43d-7fdf8e090c70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbXA6EAzKGoYvERMRSSawY49A5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JGY\PycharmProjects\Testing\UnityTesting" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JGY\PycharmProjects\Testing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DDPG">
+    <configuration name="AirCombat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnityTesting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnityTesting/AirCombat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CartPole (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnityTesting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnityTesting/CartPole.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DDPG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnityTesting/Agent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnityTesting/Agent/DDPG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TRPO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RLBook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RLBook/TRPO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DDPG" />
+        <item itemvalue="Python.AirCombat" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.TRPO" />
+        <item itemvalue="Python.CartPole (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97843bd4-3f0a-4ac4-a43d-7fdf8e090c70" name="Default Changelist" comment="" />
+      <created>1581315620677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581315620677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1581315699409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581315699409" />
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583548787503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583548787503" />
+    <state x="783" y="426" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1581405920632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="426" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581405920632" />
+    <state x="858" y="273" key="#xdebugger.XInspectDialog" timestamp="1582089251832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="858" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582089251832" />
+    <state width="1614" height="466" key="DebuggerActiveHint" timestamp="1583140077517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1614" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583140077517" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1583308646518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583308646518" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.bottom" timestamp="1581567588550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567588550" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.center" timestamp="1581567588550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567588550" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.left" timestamp="1581567588550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567588550" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.right" timestamp="1581567588550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.-1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567588550" />
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom" timestamp="1583715323141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
+    <state width="1899" height="264" key="GridCell.Tab.0.center" timestamp="1583715323141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
+    <state width="1899" height="264" key="GridCell.Tab.0.left" timestamp="1583715323141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
+    <state width="1899" height="264" key="GridCell.Tab.0.right" timestamp="1583715323141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="264" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583715323141" />
+    <state width="1899" height="246" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583549301960" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.bottom" timestamp="1581567568516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567568516" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.center" timestamp="1581567568516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567568516" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.left" timestamp="1581567568516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567568516" />
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.right" timestamp="1581567568516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="81" width="1497" height="476" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567568516" />
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.bottom" timestamp="1581567477912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567477912" />
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.center" timestamp="1581567477911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567477911" />
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.left" timestamp="1581567477910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567477910" />
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.right" timestamp="1581567477911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-75" y="699" width="1870" height="208" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581567477911" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583121984251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583121984251" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1583125666530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583125666530" />
+    <state x="530" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582177806212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582177806212" />
+    <state x="63" y="0" width="1676" height="1027" key="dock-window-1" timestamp="1583547668241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1677" height="1027" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583123325844" />
+    <state x="63" y="0" width="1676" height="1027" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583547668241" />
+    <state x="372" y="248" width="1676" height="1027" key="dock-window-2" timestamp="1583548808943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="372" y="248" width="1676" height="1027" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583548808943" />
+    <state x="0" y="0" width="1676" height="1027" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583547697991" />
+    <state x="1920" y="0" width="1676" height="1027" maximized="true" key="dock-window-3" timestamp="1583548062168">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1676" height="1027" maximized="true" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583548062168" />
+    <state x="1920" y="0" width="1676" height="1027" maximized="true" key="dock-window-4" timestamp="1583549127592">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1676" height="1027" maximized="true" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583549127592" />
+    <state x="1920" y="0" width="1677" height="1027" key="dock-window-5" timestamp="1582183476538">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1677" height="1027" key="dock-window-5/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582183476538" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581576922838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1581576922838" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="Qpredict.shape" />
+        <watch expression="env_info.vector_observations" />
+        <watch expression="ep_actions[2]" />
+        <watch expression="rewards.shape" />
+        <watch expression="rewards" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
